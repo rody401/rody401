@@ -11,7 +11,7 @@
 
 - 📄 Check out my resume [https://drive.google.com/file/d/14vPg3perkWksQP-RSsL6DRcH8p3oVPNh/view?usp=sharing](https://drive.google.com/file/d/14vPg3perkWksQP-RSsL6DRcH8p3oVPNh/view?usp=sharing)
 
-- ⚡ Fun fact **I was in a gaming team in high school which allowed me to buy other games lol**
+- ⚡ Fun fact **I was in a gaming team in high school which helped with my own expenses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
