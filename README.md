@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rodygomes401@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/14vPg3perkWksQP-RSsL6DRcH8p3oVPNh/view?usp=sharing](https://drive.google.com/file/d/14vPg3perkWksQP-RSsL6DRcH8p3oVPNh/view?usp=sharing)
+- 📄 Check out my resume [https://drive.google.com/file/d/1Iqz_Ha5V6ZPCiGD3NZEFN99M0clehepT/view?usp=sharing](https://drive.google.com/file/d/1Iqz_Ha5V6ZPCiGD3NZEFN99M0clehepT/view?usp=sharing)
 
 - ⚡ Fun fact **I was in a gaming team in high school which helped with my own expenses**
 
