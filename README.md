@@ -5,7 +5,7 @@
 <h1 align="center">What's Up!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am a Software Engineer based in New York, NY. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
 
-- 👨‍💻 All of my projects are available at [https://georgegomes.com](https://georgegomes.com)
+- 👨‍💻 All of my projects are available at [https://www.gomesdev.com/](https://www.gomesdev.com/)
 
 - 📫 How to reach me **rodygomes401@gmail.com**
 
